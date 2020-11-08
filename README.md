@@ -1,6 +1,6 @@
 # PAC Finder
 
-PAC Finder is an web application that beautifully displays FEC campaign finance data across the United States and correlations between PACs and candidates running for office.
+PAC Finder is a web application that beautifully displays FEC campaign finance data across the United States and correlations between PACs and candidates running for office.
 
 ## About
 
