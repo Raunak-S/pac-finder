@@ -91,9 +91,7 @@ class DB:
             self.cnxn.commit()
         if type == "select":
             out = self.cursor.fetchall()
-            print(query)
-            for row in out:
-                print(row)
+            return out
             
     def close(self):
         self.cnxn.close()
