@@ -6,6 +6,8 @@ PAC Finder is a web application that beautifully displays FEC campaign finance d
 
 This project aims to clarify what PACs are donating to candidates running for office. Users can sort by state, county, industry, and more to view issues that are important to them. By grouping FEC campaign finance data, voters will be more educated on who donates to their representatives and how much their representatives receive during an election cycle.
 
+Find out more in our [devpost](https://devpost.com/software/pac-finder)
+
 ## Built With
 
 - Python
